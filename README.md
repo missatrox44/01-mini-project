@@ -39,11 +39,12 @@ https://missatrox44.github.io/01-mini-project/
 
 ---
 ## Resources
-Images from [Unsplash.com](https://unsplash.com/)
+Images from [Unsplash.com](https://unsplash.com/)<br>
+Form by [Zach Saucier](zachsaucier.com)
 
 ---
 ## Site Preview 
-![Image](link)
+![My Website Preview](./assets/images/site-preview.png)
 
 ---
 
