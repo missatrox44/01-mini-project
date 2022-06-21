@@ -20,6 +20,8 @@ h2 {
 
 main {
     padding: 60px 0;
+    max-width: 1300px;
+    margin: 0 auto;
 }
 
 li {
@@ -56,8 +58,6 @@ p {
     margin: 15px;
 }
 
-
-
 img {
     margin: 20px;
     border-radius: 20px;
@@ -68,6 +68,7 @@ section {
     padding: 20px 10px 40px 10px;
     border-bottom: 10px solid #A3A27A;
     background-color: #BFE0F0;
+    
 }
 
 /* form */
