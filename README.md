@@ -13,6 +13,7 @@ When the contact link is clicked, the page jumps directly to the contact form wh
 
 ## Resources
 Images from [Unsplash.com](https://unsplash.com/)
+
 Form by [Zach Saucier](zachsaucier.com)
 
 
@@ -24,4 +25,5 @@ Form by [Zach Saucier](zachsaucier.com)
 
 ## Questions
 Github username: [missatrox44](https://github.com/missatrox44) 
+
 Email: missatrox44@gmail.com
