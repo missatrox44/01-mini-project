@@ -12,8 +12,7 @@ This simple static page is created to practice semantic HTML and include univers
 When the contact link is clicked, the page jumps directly to the contact form which includes a submit button and 'input' elements for name and email.
 
 ## Resources
-Images from [Unsplash.com](https://unsplash.com/)
-
+Images from [Unsplash.com](https://unsplash.com/) <br>
 Form by [Zach Saucier](zachsaucier.com)
 
 
@@ -24,6 +23,5 @@ Form by [Zach Saucier](zachsaucier.com)
 [Sara Baqla](https://github.com/missatrox44) 
 
 ## Questions
-Github username: [missatrox44](https://github.com/missatrox44) 
-
+Github username: [missatrox44](https://github.com/missatrox44) <br>
 Email: missatrox44@gmail.com
